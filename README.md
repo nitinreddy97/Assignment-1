@@ -34,3 +34,6 @@ Screenshot -output - Shows the delete endpoint
 
 ![controller3](https://user-images.githubusercontent.com/115806128/195888909-4e035d6f-e73e-411d-8e17-520a4b9bcea0.PNG)
 
+
+Link to Controller class - https://github.com/nitinreddy97/Assignment-1/blob/main/employee/employee/src/main/java/com/nitin/employee/controller/EmployeeController.java
+
